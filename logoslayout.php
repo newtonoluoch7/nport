@@ -1,12 +1,12 @@
 <?php include "inc/header.php" ?>
 
-<body class="wrapper logo-ex">
+<div class="wrapper logo-ex">
   <div class="pt-5">
     <p>Date of Project</p>
     <h2 class="pb-3">Smich Pharma</h2>
   </div>
   <div>
-    <img src="/img/logos/smich/SmichL.png" alt="">
+    <img src="img/logos/smich/SmichL.png" alt="">
   </div>
     <p class="pt-5 pb-5 about-logo">
       <span>ABOUT PROJECT </span> <br>
@@ -15,7 +15,7 @@
     </p>
 
     <div>
-      <img src="/img/logos/smich/dropper-02.png" alt="">
+      <img src="img/logos/smich/dropper-02.png" alt="dropper">
     </div>
       <p class="pt-5 pb-5 design-process">
         <span>DESIGN PROCESS </span> <br>
@@ -26,10 +26,10 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6">
-<img src="/img/logos/smich/Cap-side.jpg" alt="">
+<img src="img/logos/smich/Cap-side.jpg" alt="cap">
     </div>
     <div class="col-md-6">
-      <img src="/img/logos/smich/Box.png" alt="">
+      <img src="img/logos/smich/Box.png" alt="">
           </div>
   </div>
 </div>
@@ -40,13 +40,13 @@
 </div>
 
 <div class="last-image">
-  <img src="/img/logos/smich/Facade large.jpg" alt="">
+  <img src="img/logos/smich/Facade large.jpg" alt="facade">
 </div>
 
 <div class="pt-3 pb-3">
-<button><a href="/portfolio.html">PORTFOLIO</a></button>
+<button><a href="portfolio.php">PORTFOLIO</a></button>
 </div>
-</body>
+</div>
 
 <?php include "inc/footer.php" ?>
 

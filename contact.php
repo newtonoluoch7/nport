@@ -75,7 +75,6 @@
 
 </div>
 
-
 <!-- End of contact form -->
 
 <?php include "inc/footer.php" ?>

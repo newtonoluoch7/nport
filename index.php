@@ -101,7 +101,7 @@
               <div class="overlay-text">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
                   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> 
-                  <button> <a href="layouts/logoslayout.html">EXPLORE</a></button> 
+                  <button> <a href="logoslayout.php">EXPLORE</a></button> 
               </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
               <div class="overlay-text">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
                   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> 
-                  <button> <a href="layouts/logoslayout.html">EXPLORE</a></button> 
+                  <button> <a href="logoslayout.php">EXPLORE</a></button> 
               </div>
             </div>
         </div>
@@ -121,7 +121,7 @@
               <div class="overlay-text">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
                   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> 
-                  <button> <a href="layouts/logoslayout.html">EXPLORE</a></button> 
+                  <button> <a href="layouts/logoslayout.php">EXPLORE</a></button> 
               </div>
             </div>
         </div>
@@ -131,7 +131,7 @@
               <div class="overlay-text">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
                   sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p> 
-                  <button> <a href="layouts/logoslayout.html">EXPLORE</a></button> 
+                  <button> <a href="layouts/logoslayout.php">EXPLORE</a></button> 
               </div>
             </div>
         </div>
