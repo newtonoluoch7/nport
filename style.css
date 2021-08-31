@@ -48,9 +48,9 @@ nav{
     align-items: flex-end;
 }
 
-.container .navbar-brand{
+.container-fluid .navbar-brand{
     font-family: 'Poppins', sans-serif;
-    font-weight: 800;
+    font-weight: 600;
     font-size: 2rem;
     color: coral;
     flex: 1;
